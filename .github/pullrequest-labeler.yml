@@ -9,4 +9,3 @@ documentation:
 docker:
   - changed-files:
       - any-glob-to-any-file: docker/**/*
-
