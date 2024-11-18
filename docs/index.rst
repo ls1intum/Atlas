@@ -14,14 +14,14 @@ Atlas main features
    :includehidden:
    :maxdepth: 3
 
-    user/user
+   user/user
 
 .. toctree::
    :caption: Contributor Guide
    :includehidden:
    :maxdepth: 3
 
-    dev/dev
+   dev/dev
 
 
 .. toctree::
@@ -29,4 +29,4 @@ Atlas main features
    :includehidden:
    :maxdepth: 3
 
-    admin/admin
+   admin/admin
