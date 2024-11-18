@@ -23,7 +23,6 @@ Atlas main features
 
    dev/dev
 
-
 .. toctree::
    :caption: Administration Guide
    :includehidden:
