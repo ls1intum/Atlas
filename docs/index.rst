@@ -1,8 +1,8 @@
 .. _atlas:
 
-======================================================
+==================================================
 Atlas: Competency Based Learning Management System
-======================================================
+==================================================
 
 Main features
 -------------
@@ -22,6 +22,7 @@ Atlas main features
    :maxdepth: 3
 
    dev/dev
+   dev/setup/setup
 
 .. toctree::
    :caption: Administration Guide
