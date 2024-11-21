@@ -23,6 +23,7 @@ Atlas main features
 
    dev/dev
    dev/setup/setup
+   dev/development-process/development-process
 
 .. toctree::
    :caption: Administration Guide
