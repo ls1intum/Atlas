@@ -40,7 +40,7 @@ This comment reminds the assignee to fill out the feature proposal and provides 
       The GitHub Action will be skipped for issues that are labeled with "bug".
 
 .. literalinclude:: ../../../.github/ISSUE_TEMPLATE/feature-proposal-developer.md
-    :caption: Artemis/.github/ISSUE_TEMPLATE/feature-proposal-developer.md
+    :caption: Atlas/.github/ISSUE_TEMPLATE/feature-proposal-developer.md
     :language: markdown
 
 
