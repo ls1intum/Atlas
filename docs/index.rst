@@ -22,8 +22,9 @@ Atlas main features
    :maxdepth: 3
 
    dev/dev
-   dev/setup/setup
    dev/development-process/development-process
+   dev/system-design/system-design
+   dev/setup/setup
 
 .. toctree::
    :caption: Administration Guide
