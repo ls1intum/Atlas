@@ -2,7 +2,7 @@
 name = "atlasml"
 version = "0.1.0"
 description = ""
-authors = ["ufukygmr <uyagmur123@gmail.com>"]
+authors = ["Maximilian Anzinger <anzinger@cit.tum.de>"]
 readme = "README.md"
 
 [tool.poetry.dependencies]
